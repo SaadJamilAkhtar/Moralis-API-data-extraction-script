@@ -6,7 +6,7 @@ base_url = "https://deep-index.moralis.io/api/v2/nft/transfers?chain=eth&format=
 
 payload = {}
 headers = {
-    'X-API-Key': 'o5RMFeL3wZteMNoNzlSP6eoSSyzcXzyDdq1Eo1YmAUz9evLhojjZwARZrpVkL2eC'
+    'X-API-Key': 'Your API Key'
 }
 
 
