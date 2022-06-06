@@ -5,5 +5,6 @@ The Script help in extraction of live data from moralis API and store the data i
 2. mysql.connector
 
 # How to run code
-1. replace required credentials in main.py file
-2. run main.py file using `python main.py`
+1. Replace required credentials in main.py file
+2. Install required libs using `pip install -r requirements.txt`
+3. Run main.py file using `python main.py`
