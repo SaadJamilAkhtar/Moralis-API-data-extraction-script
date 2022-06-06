@@ -44,10 +44,10 @@ def writeToFile(response, mycursor):
 
 if __name__ == '__main__':
     mydb = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="root1122",
-        database="block"
+        host="SQL HOST URL",
+        user="SQL USERNAME",
+        password="SQL PASSWORD",
+        database="SQL DATABASE"
     )
     mycursor = mydb.cursor()
 
